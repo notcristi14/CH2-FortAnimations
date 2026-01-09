@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "PM_Diffuse": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_D.T_NINJA_T3_ArmPlate_D",
+    "Diffuse": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_D.T_NINJA_T3_ArmPlate_D",
+    "M": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_M2.T_NINJA_T3_ArmPlate_M2",
+    "PM_SpecularMasks": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_S.T_NINJA_T3_ArmPlate_S",
+    "T_NINJA_T3_ArmPlate_M2": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_M2.T_NINJA_T3_ArmPlate_M2",
+    "PM_Normals": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_N.T_NINJA_T3_ArmPlate_N",
+    "Normals": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_N.T_NINJA_T3_ArmPlate_N",
+    "SpecularMasks": "/Game/Characters/Player/Male/Small/T3_Items/Arm_Plates/Textures/T_NINJA_T3_ArmPlate_S.T_NINJA_T3_ArmPlate_S"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "RimLightColor": {
+        "R": 1.229584,
+        "G": 1.485669,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveUVs_RG_UpperLeftCorner_BA_LowerRightCorner": {
+        "R": 0.854,
+        "G": 0.363,
+        "B": 1.0,
+        "A": 0.51,
+        "Hex": "82EEA2FF"
+      },
+      "SkinToneBase": {
+        "R": 0.619997,
+        "G": 0.49,
+        "B": 0.41,
+        "A": 1.0,
+        "Hex": "CFBAAC"
+      }
+    },
+    "Scalars": {
+      "emissive mult": 10.0,
+      "SpecRoughnessMax": 0.671618,
+      "SpecRoughnessMin": 0.359159,
+      "ClothingSpecularMultiplier": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "CameraFacing": false,
+      "CroppedEmissive": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "OpacityMaskClipValue": 0.3333,
+        "UsageFlags": 4194849
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
